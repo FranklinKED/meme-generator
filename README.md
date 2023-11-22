@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-11-22 at 3 38 57 PM](https://github.com/FranklinKED/meme-generator/assets/71602470/6ca0275e-df88-43f5-94b1-e0cfc53442bf)
 # cGZaGPu8
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
